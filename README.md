@@ -1,38 +1,51 @@
-# Octra Wallet Generator
+# Octra
 
-A secure wallet generator for Octra blockchain.
+# Wallet generation Guide
 
-## Quick Start
+---
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/octra-labs/wallet-gen.git
-   cd wallet-gen
-   ```
+## 🔹 Step 1:
 
-2. **Run the wallet generator webserver:**
-   
-   **Linux/macOS:**
-   ```bash
-   chmod +x ./start.sh
-   ./start.sh
-   ```
-   
-   **Windows:**
-   ```bash
-   start.bat
-   ```
+```bash
+curl -fsSL https://bun.sh/install | bash
+source ~/.bashrc
+bun --version
+````
 
-3. **Open your browser:**
-   Navigate to `http://localhost:8888`
+---
 
-### Generating Wallets
+## 🔹 Step 2:
 
-1. **Generate a wallet:**
-   Click "GENERATE NEW WALLET" and watch the real-time progress
+```bash
+bun install
+```
 
-2. **Wallet features:**
-   - View mnemonic phrase, private/public keys, and address
-   - Test signature functionality
-   - Derive addresses for different network types
-   - Auto-save wallet file to disk
+---
+
+## 🔹 Step 3:
+
+```bash
+bun run build
+```
+
+---
+
+## 🔹 Step 4:
+
+```bash
+bun start
+```
+
+> click the **“PORTS”** tab open link under forwarded address in browser
+
+---
+
+**Wallet Generated, Back up private key**
+
+Go to https://faucet.octra.network/
+
+Paste Wallet address & claim faucet
+
+Join Discord - https://discord.gg/gfAazqK9Xb
+
+---
