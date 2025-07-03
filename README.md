@@ -87,6 +87,6 @@ Paste your test wallet details
 Replace address with any address from explorer - https://octrascan.io/
 
 ```bash
-python cli.py send --to octECeUEKyTeFMYBumubqnskCYo292LJaDi8pR7ETJB4NYz --amount 0.01
+python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount 0.01
 ```
 
