@@ -97,8 +97,7 @@ python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount
 ---
 
 ###  STEP 2: 
-![Step 1 Screenshot](<img width="245" height="293" alt="image" src="https://github.com/user-attachments/assets/9301898d-5ed2-4aa9-9f51-43ca6b4441c7" />
-)
+![image alt](https://github.com/sonu70770/wallet-gen/blob/1f9a60dbcb856fcc76f38fa48aa721cd1977a924/Screenshot%202025-07-12%20003821.png) 
 
 • Use Command `4` For Encrypt  
 • Use Command `5` For Decrypt  
