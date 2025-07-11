@@ -97,7 +97,8 @@ python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount
 ---
 
 ###  STEP 2: 
-![Step 1 Screenshot](IMG_20250710_160447.jpg)
+![Step 1 Screenshot](<img width="245" height="293" alt="image" src="https://github.com/user-attachments/assets/9301898d-5ed2-4aa9-9f51-43ca6b4441c7" />
+)
 
 • Use Command `4` For Encrypt  
 • Use Command `5` For Decrypt  
