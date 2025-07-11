@@ -90,3 +90,16 @@ Replace address with any address from explorer - https://octrascan.io/
 python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount 0.01
 ```
 
+#  TASK 2 : ENCRYPT / DECRYPT BALANCE
+
+###  STEP 1: Follow Task 1 Steps & Open Wallet UI
+
+---
+
+###  STEP 2: 
+![Step 1 Screenshot](IMG_20250710_160447.jpg)
+
+• Use Command `4` For Encrypt  
+• Use Command `5` For Decrypt  
+
+Keep doing transactions, you can also use other commands like `6` & `7` for private Transfer & Claim , Use Address From Explorer:(https://octrascan.io/)
