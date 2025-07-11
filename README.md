@@ -50,7 +50,7 @@ Join Discord - https://discord.gg/vnp9QsPW
 
 ---
 
-# Quest1 - Send Tokens
+# Task 1 - Token Transfer
 
 ### Step 1
 
